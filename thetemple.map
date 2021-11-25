@@ -357,6 +357,6 @@
 }
 // entity 2
 {
-"classname" "monster_wizard"
-"origin" "-464 -80 24"
+"classname" "monster_demon1"
+"origin" "-480 -64 24"
 }
